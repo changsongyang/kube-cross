@@ -1,2 +1,2 @@
-k8s.gcr.io/build-image/kube-cross:v1.23.0-go1.17.1-bullseye.1
-MAINTAINER doop
+k8s.gcr.io/build-image/kube-cross:v1.24.0-go1.18.1-bullseye.0
+MAINTAINER ycsit
